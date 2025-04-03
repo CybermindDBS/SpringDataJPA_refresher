@@ -1,0 +1,30 @@
+Note: Demo files are present in com/example/springdatajpa/service.
+
+Common to All:
+1. Lombok API (few annotations are covered)
+2. Association Mapping (One to One) in Hibernate
+3. @Transactional
+
+Demo1:
+1. CrudRepository
+
+Demo2:
+1. PagingAndSortingRepository
+
+Demo 3 & 4: JpaRepository, Static & Dynamic Projections
+
+Demo3:
+1. Finder methods
+
+Demo4:
+1. @Query and @Modifying methods
+2. @Transactional annotation in Spring Data Jpa
+
+
+
+
+
+
+Not Covered:
+1. EntityManager
+2. Calling Stored Procedures
