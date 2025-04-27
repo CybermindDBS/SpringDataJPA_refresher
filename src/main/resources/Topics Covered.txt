@@ -25,7 +25,8 @@ Demo4:
 
 
 
-Not Covered:
+Not Covered in this project:
 1. EntityManager
 2. Calling Stored Procedures
-3. Association mapping (One to Many, Many to One) and Collection mapping (These are covered in HiringPlatformWebApp Project)
+3. Association mapping (One to Many, Many to One) and Collection mapping (Covered in HiringPlatformWebApp Project)
+4. Inheritance mapping (Covered in HibernateCrudWebApp project)
