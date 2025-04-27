@@ -28,3 +28,4 @@ Demo4:
 Not Covered:
 1. EntityManager
 2. Calling Stored Procedures
+3. Association mapping (One to Many, Many to One) and Collection mapping (These are covered in HiringPlatformWebApp Project)
